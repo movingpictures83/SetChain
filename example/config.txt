@@ -1,0 +1,2 @@
+Prefix plugins/SetChain/example/
+Plugin SetChain inputfile parameters.txt outputfile LEU.pdb
